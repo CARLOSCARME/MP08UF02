@@ -15,3 +15,6 @@ Instal·larem la versió Google drive per escriptori, es una instal·lació simp
 - El quart pas es afegir els permisos.
 
 
+## Creació de unitat compartida
+
+![]()
