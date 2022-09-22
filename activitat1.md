@@ -53,6 +53,18 @@ Considerem que tindre una copia de seguretat amb Google drive es una bona aposta
 ![](Selecció_060.png)
 
 
+## Demostració operativa
+
+A les següents il·lustracions podem observar que ens envien uns fitxers compartits i no els podem ni modificar, ni borra.
+
+ 
+Podem observar per la icona de la dreta que estem dintre del compte Google del Institut de l’Ebre i que l’usuari Amadeu ens ha enviat un arxiu compartit.
+
+Aquest arxiu només té permís de lectura, podeu observar que el pot de la brossa que informa si un fitxer  es pot esborrar està inactiu.
+
+
+![](Selecció_064.png)
+
 
 
 
