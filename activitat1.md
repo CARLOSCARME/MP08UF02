@@ -17,4 +17,10 @@ Instal·larem la versió Google drive per escriptori, es una instal·lació simp
 
 ## Creació de unitat compartida
 
-![]()
+![](Selecció_054.png)
+
+## Procediment de creació
+
+En Google drive d’escriptori tenim que anar a preferències, cliquem allí i ja podrem seleccionar la carpeta de la qual vulguem fer la copia de seguretat.
+
+![](Selecció_055.png)
