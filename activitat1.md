@@ -24,3 +24,11 @@ Instal·larem la versió Google drive per escriptori, es una instal·lació simp
 En Google drive d’escriptori tenim que anar a preferències, cliquem allí i ja podrem seleccionar la carpeta de la qual vulguem fer la copia de seguretat.
 
 ![](Selecció_055.png)
+
+
+
+## Procediment
+
+En explorador d’arxius allí agafem i crearem un accés directe de les dues carpetes a l’escriptori
+
+
