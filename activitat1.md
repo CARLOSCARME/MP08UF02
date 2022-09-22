@@ -31,4 +31,21 @@ En Google drive d’escriptori tenim que anar a preferències, cliquem allí i j
 
 En explorador d’arxius allí agafem i crearem un accés directe de les dues carpetes a l’escriptori
 
+![](Selecció_056.png)
+
+## Extra backup
+
+![](Selecció_057.png)
+
+Com ha seguretat extra hem decidit comprar un disc dur per utilitzar-lo coma copia de seguretat del backup de Drive, per fer la copia em utilitzat un script de Xcopy diferencial junt amb una tasca programada per que cada dia executi la copia automàticament.
+
+
+## 
+
+
+
+
+
+
+
 
